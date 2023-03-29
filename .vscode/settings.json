@@ -1,3 +1,8 @@
 {
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "github.codespaces.defaultExtensions": [
+        "GitHub.codespaces",
+        "GitHub.vscode-pull-request-github",
+        "GitHub.copilot",
+    ]
 }
